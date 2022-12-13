@@ -3,15 +3,14 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  
 }
-.img1{
+.img1 {
   width: 10%;
   position: absolute;
   right: 350px;
   top: 550px;
 }
-.img2{
+.img2 {
   width: 10%;
   position: absolute;
   left: 900px;

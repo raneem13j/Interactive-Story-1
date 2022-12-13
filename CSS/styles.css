@@ -3,7 +3,6 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  
 }
 .txt {
   color: rgb(255, 255, 255);
@@ -11,7 +10,7 @@ body {
   margin: 100px 0px 0px 100px;
   font-size: 60px;
   background-color: rgba(0, 0, 0, 0.24);
-  border-radius: 25px;;
+  border-radius: 25px;
   padding: 10px;
 }
 .start {

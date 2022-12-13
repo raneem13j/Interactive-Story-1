@@ -3,7 +3,6 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  
 }
 .container {
   display: flex;
@@ -16,14 +15,12 @@ body {
   margin: 500px 0px 0px 150px;
 }
 .btn2 {
-    margin: 500px 100px 0px 0px;
+  margin: 500px 100px 0px 0px;
   width: 50%;
   text-align: center;
 }
-.redirect{
-    text-decoration: none;
-    color: white;
-    font-size: 50px;
-   
-   
+.redirect {
+  text-decoration: none;
+  color: white;
+  font-size: 50px;
 }
