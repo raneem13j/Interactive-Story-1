@@ -7,6 +7,9 @@ function show() {
   txt.style = "display:none";
   txt1.style = "display:block";
 }
+function redirect0() {
+  location.href = "./html 1.html";
+}
 function redirect() {
   location.href = "./html 6.html";
 }
