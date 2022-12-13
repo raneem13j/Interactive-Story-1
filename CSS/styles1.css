@@ -1,0 +1,26 @@
+body {
+  background-image: url("../Assets/2doors.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.btn1 {
+  width: 50%;
+  text-align: center;
+  margin: 500px 0px 0px 150px;
+}
+.btn2 {
+  margin: 500px 100px 0px 0px;
+  width: 50%;
+  text-align: center;
+}
+.redirect {
+  text-decoration: none;
+  color: white;
+  font-size: 50px;
+}

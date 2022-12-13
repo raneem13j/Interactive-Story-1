@@ -1,0 +1,29 @@
+body {
+  background-image: url("../Assets/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.txt {
+  color: rgb(255, 255, 255);
+  width: 30%;
+  margin: 100px 0px 0px 100px;
+  font-size: 60px;
+  background-color: rgba(0, 0, 0, 0.24);
+  border-radius: 25px;
+  padding: 10px;
+}
+.start {
+  margin: 300px 0px 0px 100px;
+}
+
+.btn1 {
+  background-color: #961b31;
+  padding: 20px;
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 10px;
+}

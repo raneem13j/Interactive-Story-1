@@ -1,0 +1,31 @@
+body {
+  background-image: url("../Assets/gameover2.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1 {
+  color: white;
+  font-size: 50px;
+  margin-top: 400px;
+  background-color: rgba(0, 0, 0, 0.767);
+  border-radius: 20px;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+
+  text-align: center;
+}
+h2 {
+  color: white;
+  font-size: 50px;
+  margin-top: 50px;
+  background-color: rgba(0, 0, 0, 0.767);
+  border-radius: 20px;
+  padding: 5px;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  text-decoration: none;
+  text-align: center;
+}
