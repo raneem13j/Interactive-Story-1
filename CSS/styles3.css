@@ -1,0 +1,41 @@
+body {
+  background-image: url("../Assets/keybackground.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.center {
+  text-align: center;
+}
+body > div > h1 {
+  color: white;
+  font-size: 50px;
+  margin-top: 400px;
+  background-color: rgba(0, 0, 0, 0.452);
+  border-radius: 20px;
+  width: 70%;
+  margin: auto;
+}
+body > div > h2 {
+  color: white;
+  font-size: 50px;
+  margin-top: 400px;
+  background-color: rgba(0, 0, 0, 0.452);
+  border-radius: 20px;
+  width: 70%;
+  margin: auto;
+  display: none;
+}
+span{
+  background-color: #8e9ca067;
+  padding: 70px 120px 70px 120px ;
+  position: absolute;
+  top: 380px;
+  left: 200px;
+  opacity: 0.1;
+}
+img{
+  margin: 150px 0px 0px 250px;
+  width: 10%;
+  display: none;
+}
